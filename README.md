@@ -1,2 +1,2 @@
 # Querying-a-Large-Relational-Database
-ssms, sql
+use ssms, sql
